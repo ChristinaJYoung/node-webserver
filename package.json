@@ -1,0 +1,29 @@
+{
+  "name": "node-webserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristinaJYoung/node-webserver.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChristinaJYoung/node-webserver/issues"
+  },
+  "homepage": "https://github.com/ChristinaJYoung/node-webserver#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {
+    "express": "^4.13.4",
+    "nodemon": "^1.8.1"
+  }
+}
