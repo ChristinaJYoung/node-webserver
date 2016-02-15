@@ -1,0 +1,16 @@
+{
+  "name": "expressGeneratedAppWithSass",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "https://github.com/Ace4ever/WhatDoYouWannaDo-",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "www/lib",
+    "test",
+    "tests"
+  ]
+}
